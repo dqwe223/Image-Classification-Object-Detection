@@ -4,11 +4,11 @@ Simply upload your image, and in just a few minutes, receive accurate and insigh
 
 You need install this things :
 
->streamlit
->transformers
->torch
->huggingface_hub
->timm
+streamlit
+transformers
+torch
+huggingface_hub
+timm
 
 Instructions:
 
