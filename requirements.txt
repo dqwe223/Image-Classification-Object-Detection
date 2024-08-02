@@ -1,0 +1,5 @@
+streamlit>=1.0.0
+transformers>=4.5.0
+torch
+huggingface_hub
+timm
