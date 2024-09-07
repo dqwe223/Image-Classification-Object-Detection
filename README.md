@@ -4,15 +4,15 @@ Simply upload your image, and in just a few minutes, receive accurate and insigh
 
 You need install this things :
 
-streamlit
-transformers
-torch
-huggingface_hub
-timm
+streamlit<br>
+transformers<br>
+torch<br>
+huggingface_hub<br>
+timm<br>
 
 Instructions:
 
-1.Click the Browse Files button to upload your desired image.
-2.Press the Classification or Object Detection button .
-3.Wait a few minutes while our system analyzes your image.
-4.View the results and insights provided by Web App.
+1.Click the Browse Files button to upload your desired image. <br>
+2.Press the Classification or Object Detection button .<br>
+3.Wait a few minutes while our system analyzes your image.<br>
+4.View the results and insights provided by Web App.<br>
